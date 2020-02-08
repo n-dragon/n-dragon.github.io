@@ -3,11 +3,9 @@ title: but why ?
 description: technical blog trying to understand a bit further
 
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Nicolas Dragon
+  tagline: Developer
   date_format: "%b %-d, %Y"
 
   social_links:
-    twitter: thelehhman
-    github: thelehhman
-    linkedIn: in/thelehhman # format: locale/username
+    twitter: nDragon33
